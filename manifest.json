@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Order Payment Calculator",
+  "version": "1.0",
+  "description": "Calculate the amount each person needs to pay in an order.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
